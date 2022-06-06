@@ -21,7 +21,7 @@ no ip domain-lookup
 !
 !
 !
-ip tcp synwait-time 5
+ip tcp synwait-time 500
 ! 
 !
 !

@@ -23,7 +23,6 @@ ip tcp synwait-time 5
 !
 interface Ethernet0/0
  no ip address
- shutdown
 !
 interface Ethernet0/1
  no ip address
